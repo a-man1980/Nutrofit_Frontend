@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98px" height="98px" viewBox="0 0 137 137" version="1.1">
+
+<circle cx="68.5" cy="68.5" r="68" fill="#A31D1D"/>
+
+<g transform="translate(15.5,11) scale(0.85)">
+
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 2.439715 23.479911 C 2.441191 21.19494 2.97564 18.941964 4.000246 16.900298 C 4.339813 16.15997 4.709646 15.470238 4.999754 14.779762 C 5.79626 13.342262 6.23253 11.732887 6.270177 10.09003 C 6.162402 6.81622 5.513533 3.581845 4.350148 0.520089 " transform="matrix(5.291667,0,0,5.25,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 21.569882 23.479911 C 21.580955 21.235119 21.074557 19.017857 20.089813 17 C 19.730315 16.240327 19.359744 15.529762 19.020177 14.830357 C 18.21998 13.393601 17.780758 11.784226 17.740157 10.139881 C 17.839075 6.848958 18.488681 3.59747 19.660187 0.520089 " transform="matrix(5.291667,0,0,5.25,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 20.089813 17 L 13.709646 22 C 13.223917 22.377976 12.625246 22.582589 12.010335 22.580357 C 11.385089 22.579613 10.779035 22.368304 10.290354 21.979911 L 4.000246 16.900298 C 4.339813 16.15997 4.709646 15.470238 4.999754 14.779762 C 9.592766 15.955357 14.407234 15.955357 19.000246 14.779762 C 19.359744 15.479911 19.730315 16.189732 20.089813 17 Z M 20.089813 17 " transform="matrix(5.291667,0,0,5.25,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 12 8.169643 L 12 10.09003 " transform="matrix(5.291667,0,0,5.25,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1.090305 7.779762 L 3.400098 10.09003 L 1.090305 12.400298 " transform="matrix(5.291667,0,0,5.25,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 23.089813 12.400298 L 20.78002 10.09003 L 23.089813 7.779762 " transform="matrix(5.291667,0,0,5.25,0,0)"/>
+</g>
+</svg>

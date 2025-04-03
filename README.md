@@ -1,5 +1,5 @@
 
-# 🏋️‍♂️ NutroFit(Frontend) 
+# 🏋️‍♂️ NutroFit(Frontend) https://github.com/a-man1980/Nutrofit_Frontend/settings
 
 ![NutroFit Banner](https://github.com/a-man1980/Nutrofit_Frontend/blob/d5ec0bc29bad5f371ec79bf3df48d31cf6617f0b/Banner.png)  
 
@@ -12,42 +12,42 @@ NutroFit is a full stack **MERN** modern fitness and nutrition platform that ena
 
 ### **Landing Page - First Impression**  
 The landing page provides a welcoming interface, showcasing NutroFit’s core features, benefits, and an easy-to-use navigation system.  
-![Landing Page](https://your-image-url.com/landing-page.png)  
+![Landing Page](https://github.com/a-man1980/Nutrofit_Frontend/blob/14186d2acf3fe50d80ffe5e75ade0d33338e76eb/Landing.png)  
 
 ---
 
 ### **All Coaches Page - Find the Right Coach**  
 This page displays a list of professional fitness coaches. Users can **filter coaches based on their specialties** (e.g., Weight Loss, Strength Training, Yoga, etc.), making it easier to find the right fit for their needs.  
-![All Coaches Page](https://your-image-url.com/coaches-page.png)  
+![All Coaches Page](https://github.com/a-man1980/Nutrofit_Frontend/blob/14186d2acf3fe50d80ffe5e75ade0d33338e76eb/All%20Coaches.png)  
 
 ---
 
 ### **Booking Page - Choose Date & Time Slot**  
 Users can schedule sessions with their preferred coach. The system allows **slot selection within 7 days from the current date** and lets users choose a **suitable time slot** based on availability.  
-![Booking Page](https://your-image-url.com/booking-page.png)  
+![Booking Page](https://github.com/a-man1980/Nutrofit_Frontend/blob/14186d2acf3fe50d80ffe5e75ade0d33338e76eb/Booking%20Page.png)  
 
 ---
 
 ### **Payment Gateway Integration - Secure Transactions**  
 NutroFit integrates **Razorpay** for seamless and secure online payments. Users can complete their bookings effortlessly using various payment methods.  
-![Payment Gateway](https://your-image-url.com/payment-gateway.png)  
+![Payment Gateway](https://github.com/a-man1980/Nutrofit_Frontend/blob/14186d2acf3fe50d80ffe5e75ade0d33338e76eb/payment.png)  
 
 ---
 
 ### **My Appointments Page - Manage Your Bookings**  
 A personalized dashboard where users can view upcoming and past coaching sessions, helping them stay on track with their fitness goals.  
-![My Appointments Page](https://your-image-url.com/appointments.png)  
+![My Appointments Page](https://github.com/a-man1980/Nutrofit_Frontend/blob/14186d2acf3fe50d80ffe5e75ade0d33338e76eb/My%20Appointments.png)  
 
 ---
 
 ### **Profile Editing - Customize Your Experience**  
 Users can update their personal information, including name, email, profile picture, fitness goals, and preferences.  
-![Edit Profile](https://your-image-url.com/edit-profile.png)  
+![Edit Profile](https://github.com/a-man1980/Nutrofit_Frontend/blob/14186d2acf3fe50d80ffe5e75ade0d33338e76eb/Updating%20profile.png)  
 
 ---
 
 ## 🌐 Deployment  
-- **Live URL:** [NutroFit Frontend on Vercel](https://your-vercel-url.com)  
+- **Live URL:** [NutroFit Frontend on Vercel](https://nutrofit-frontend.vercel.app/)  
 
 ---
 

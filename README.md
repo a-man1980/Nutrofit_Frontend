@@ -1,5 +1,5 @@
 
-# 🏋️‍♂️ NutroFit(Frontend) https://github.com/a-man1980/Nutrofit_Frontend/settings
+# 🏋️‍♂️ NutroFit(Frontend)
 
 ![NutroFit Banner](https://github.com/a-man1980/Nutrofit_Frontend/blob/d5ec0bc29bad5f371ec79bf3df48d31cf6617f0b/Banner.png)  
 

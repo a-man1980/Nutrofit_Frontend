@@ -1,7 +1,7 @@
 
 # 🏋️‍♂️ NutroFit(Frontend) 
 
-![NutroFit Banner](https://your-image-url.com/banner.png)  
+![NutroFit Banner](https://github.com/a-man1980/Nutrofit_Frontend/blob/d5ec0bc29bad5f371ec79bf3df48d31cf6617f0b/Banner.png)  
 
 ## 🚀 Overview  
 NutroFit is a full stack **MERN** modern fitness and nutrition platform that enables users to track their health, book coaching sessions, manage appointments, and update their profile seamlessly. This repository contains the frontend code, built using **React.js** and **Tailwind CSS**  and backend is built with **Node.js** and **Express.js** for a responsive and intuitive user experience.  
